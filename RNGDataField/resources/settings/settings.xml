@@ -1,0 +1,11 @@
+<settings>
+
+    <setting propertyKey="@Properties.lowerBound" title = "@Strings.LowerBoundName" prompt = "@Strings.LowerBoundPrompt">
+        <settingConfig type="numeric" min = "1" errorMessage = "@Strings.LowerBoundErrorMessage"/>
+    </setting>
+
+    <setting propertyKey="@Properties.range" title = "@Strings.RangeName" prompt = "@Strings.RangePrompt">
+        <settingConfig type="numeric" min = "1" errorMessage = "@Strings.RangeErrorMessage"/>
+    </setting>
+
+</settings>

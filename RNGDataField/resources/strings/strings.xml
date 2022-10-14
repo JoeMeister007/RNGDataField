@@ -1,0 +1,12 @@
+<strings>
+    <string id="AppName">RNGDataField</string>
+    <!--Strings for bounds settings-->
+    <string id = "LowerBoundName">RNG Lower Bound</string>
+    <string id = "LowerBoundPrompt">Set The Lower Bound Of The RNG</string>
+    <string id = "LowerBoundErrorMessage">Please Enter A Positive Integer For The Lower Bound</string>
+    <string id = "RangeName">RNG Range</string>
+    <string id = "RangePrompt">Set The Range Of The RNG (e.g. If The Lower Bound Is 2 And The Range Is 10 The Numbers 2-11 Will Be Possible Outcomes)</string>
+    <string id = "RangeErrorMessage">Please Enter A Positive Integer For The Range</string>
+
+
+</strings>

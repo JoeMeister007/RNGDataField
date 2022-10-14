@@ -1,0 +1,4 @@
+<properties>
+    <property id = "lowerBound" type = "number">1</property>
+    <property id = "range" type = "number">10</property>
+</properties>

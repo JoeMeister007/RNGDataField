@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<debugInfo>
+    <manifest filename="C:\Users\Joey\Documents\GitHub\RNGDataField\RNGDataField\manifest.xml"/>
+    <pcToLineNum>
+        <entry filename="C:\\Users\\Joey\\Documents\\GitHub\\RNGDataField\\RNGDataField\\source\\RNGDataFieldView.mc" id="1" lineNum="10" parent="globals/RNGDataFieldView" pc="268435456" symbol="initialize"/>
+        <entry filename="C:\\Users\\Joey\\Documents\\GitHub\\RNGDataField\\RNGDataField\\source\\RNGDataFieldView.mc" id="1" lineNum="11" parent="globals/RNGDataFieldView" pc="268435460" symbol="initialize"/>
+        <entry filename="C:\\Users\\Joey\\Documents\\GitHub\\RNGDataField\\RNGDataField\\source\\RNGDataFieldView.mc" id="1" lineNum="12" parent="globals/RNGDataFieldView" pc="268435478" symbol="initialize"/>
+        <entry filename="C:\\Users\\Joey\\Documents\\GitHub\\RNGDataField\\RNGDataField\\source\\RNGDataFieldView.mc" id="2" lineNum="17" parent="globals/RNGDataFieldView" pc="268435492" symbol="randomInt"/>
+        <entry filename="C:\\Users\\Joey\\Documents\\GitHub\\RNGDataField\\RNGDataField\\source\\RNGDataFieldView.mc" id="2" lineNum="18" parent="globals/RNGDataFieldView" pc="268435496" symbol="randomInt"/>
+        <entry filename="C:\\Users\\Joey\\Documents\\GitHub\\RNGDataField\\RNGDataField\\source\\RNGDataFieldView.mc" id="3" lineNum="25" parent="globals/RNGDataFieldView" pc="268435556" symbol="compute"/>
+        <entry filename="C:\\Users\\Joey\\Documents\\GitHub\\RNGDataField\\RNGDataField\\source\\RNGDataFieldView.mc" id="3" lineNum="27" parent="globals/RNGDataFieldView" pc="268435560" symbol="compute"/>
+        <entry filename="C:\\Users\\Joey\\Documents\\GitHub\\RNGDataField\\RNGDataField\\source\\RNGDataFieldView.mc" id="4" lineNum="6" parent="globals/RNGDataFieldView" pc="268435843" symbol="&lt;init&gt;"/>
+        <entry filename="C:\\Users\\Joey\\Documents\\GitHub\\RNGDataField\\RNGDataField\\source\\RNGDataFieldView.mc" id="4" lineNum="6" parent="globals/RNGDataFieldView" pc="268435843" symbol="&lt;init&gt;"/>
+        <entry filename="C:\\Users\\Joey\\Documents\\GitHub\\RNGDataField\\RNGDataField\\source\\Random.mc" id="6" lineNum="3" parent="globals/Random" pc="268435567" symbol="randomInt"/>
+        <entry filename="C:\\Users\\Joey\\Documents\\GitHub\\RNGDataField\\RNGDataField\\source\\Random.mc" id="6" lineNum="4" parent="globals/Random" pc="268435579" symbol="randomInt"/>
+        <entry filename="C:\\Users\\Joey\\Documents\\GitHub\\RNGDataField\\RNGDataField\\source\\Random.mc" id="7" lineNum="2" parent="globals/Random" pc="268435862" symbol="&lt;init&gt;"/>
+        <entry filename="C:\\Users\\Joey\\Documents\\GitHub\\RNGDataField\\RNGDataField\\source\\RNGDataFieldApp.mc" id="9" lineNum="7" parent="globals/RNGDataFieldApp" pc="268435639" symbol="initialize"/>
+        <entry filename="C:\\Users\\Joey\\Documents\\GitHub\\RNGDataField\\RNGDataField\\source\\RNGDataFieldApp.mc" id="9" lineNum="8" parent="globals/RNGDataFieldApp" pc="268435643" symbol="initialize"/>
+        <entry filename="C:\\Users\\Joey\\Documents\\GitHub\\RNGDataField\\RNGDataField\\source\\RNGDataFieldApp.mc" id="10" lineNum="12" parent="globals/RNGDataFieldApp" pc="268435662" symbol="onStart"/>
+        <entry filename="C:\\Users\\Joey\\Documents\\GitHub\\RNGDataField\\RNGDataField\\source\\RNGDataFieldApp.mc" id="11" lineNum="16" parent="globals/RNGDataFieldApp" pc="268435667" symbol="onStop"/>
+        <entry filename="C:\\Users\\Joey\\Documents\\GitHub\\RNGDataField\\RNGDataField\\source\\RNGDataFieldApp.mc" id="12" lineNum="20" parent="globals/RNGDataFieldApp" pc="268435672" symbol="getInitialView"/>
+        <entry filename="C:\\Users\\Joey\\Documents\\GitHub\\RNGDataField\\RNGDataField\\source\\RNGDataFieldApp.mc" id="12" lineNum="21" parent="globals/RNGDataFieldApp" pc="268435676" symbol="getInitialView"/>
+        <entry filename="C:\\Users\\Joey\\Documents\\GitHub\\RNGDataField\\RNGDataField\\source\\RNGDataFieldApp.mc" id="13" lineNum="5" parent="globals/RNGDataFieldApp" pc="268435799" symbol="&lt;init&gt;"/>
+        <entry filename="C:\\Users\\Joey\\Documents\\GitHub\\RNGDataField\\RNGDataField\\source\\RNGDataFieldApp.mc" id="13" lineNum="5" parent="globals/RNGDataFieldApp" pc="268435799" symbol="&lt;init&gt;"/>
+        <entry filename="C:\\Users\\Joey\\Documents\\GitHub\\RNGDataField\\RNGDataField\\source\\RNGDataFieldApp.mc" id="14" lineNum="26" parent="globals" pc="268435714" symbol="getApp"/>
+        <entry filename="C:\\Users\\Joey\\Documents\\GitHub\\RNGDataField\\RNGDataField\\source\\RNGDataFieldApp.mc" id="14" lineNum="27" parent="globals" pc="268435726" symbol="getApp"/>
+        <entry filename="C:\\Users\\Joey\\Documents\\GitHub\\RNGDataField\\RNGDataField\\test\\RandomTest.mc" id="16" lineNum="5" parent="globals" pc="268435743" symbol="testRandomInt"/>
+        <entry filename="C:\\Users\\Joey\\Documents\\GitHub\\RNGDataField\\RNGDataField\\test\\RandomTest.mc" id="16" lineNum="6" parent="globals" pc="268435755" symbol="testRandomInt"/>
+        <entry filename="Rez" id="18" lineNum="2" parent="globals/Rez/Drawables" pc="268435837" symbol="&lt;init&gt;"/>
+        <entry filename="Rez" id="19" lineNum="6" parent="globals/Rez/Fonts" pc="268435839" symbol="&lt;init&gt;"/>
+        <entry filename="Rez" id="20" lineNum="8" parent="globals/Rez/JsonData" pc="268435841" symbol="&lt;init&gt;"/>
+        <entry filename="Rez" id="21" lineNum="10" parent="globals/Rez/Layouts" pc="268435840" symbol="&lt;init&gt;"/>
+        <entry filename="Rez" id="22" lineNum="12" parent="globals/Rez/Menus" pc="268435838" symbol="&lt;init&gt;"/>
+        <entry filename="Rez" id="23" lineNum="14" parent="globals/Rez/Strings" pc="268435842" symbol="&lt;init&gt;"/>
+        <entry filename="Rez" id="24" lineNum="1" parent="globals/Rez" pc="268435818" symbol="&lt;init&gt;"/>
+        <entry filename="Rez" id="24" lineNum="1" parent="globals/Rez" pc="268435818" symbol="&lt;init&gt;"/>
+    </pcToLineNum>
+    <symbolTable>
+        <entry id="8388632" method="true" symbol="&lt;init&gt;"/>
+        <entry id="4" module="true" symbol="globals/Rez/Menus"/>
+        <entry field="true" id="8388611" module="true" symbol="Toybox"/>
+        <entry id="8388649" module="true" object="true" symbol="Test"/>
+        <entry id="9" module="true" symbol="globals/Random"/>
+        <entry field="true" id="17" symbol="AppName"/>
+        <entry id="8" module="true" symbol="globals/Rez/Strings"/>
+        <entry id="8388772" module="true" object="true" symbol="Fonts"/>
+        <entry id="13" method="true" symbol="testRandomInt"/>
+        <entry id="8388631" module="true" symbol="Activity"/>
+        <entry id="8388648" module="true" symbol="WatchUi"/>
+        <entry field="true" id="18" symbol="randomNumber"/>
+        <entry id="2" module="true" symbol="globals/Rez"/>
+        <entry id="20" method="true" symbol="randomInt"/>
+        <entry id="8388771" module="true" object="true" symbol="Drawables"/>
+        <entry id="15" module="true" symbol="Menus"/>
+        <entry id="8389275" method="true" symbol="getApp"/>
+        <entry id="6" module="true" symbol="globals/Rez/Layouts"/>
+        <entry id="8389137" method="true" symbol="compute"/>
+        <entry id="12" object="true" symbol="RNGDataFieldApp"/>
+        <entry id="7" module="true" symbol="globals/Rez/JsonData"/>
+        <entry id="3" module="true" symbol="globals/Rez/Drawables"/>
+        <entry field="true" id="19" symbol="startDistance"/>
+        <entry id="8388645" module="true" symbol="Time"/>
+        <entry id="8388769" module="true" object="true" symbol="Rez"/>
+        <entry id="8388640" module="true" symbol="Lang"/>
+        <entry id="8390088" module="true" object="true" symbol="JsonData"/>
+        <entry field="true" id="16" symbol="LauncherIcon"/>
+        <entry id="8388610" symbol="statics"/>
+        <entry id="10" object="true" symbol="RNGDataFieldView"/>
+        <entry id="8389350" module="true" symbol="globals"/>
+        <entry id="8388770" module="true" object="true" symbol="Strings"/>
+        <entry id="8388702" method="true" symbol="initialize"/>
+        <entry id="8389279" method="true" symbol="onStart"/>
+        <entry id="8388641" module="true" symbol="Math"/>
+        <entry id="8389280" method="true" symbol="getInitialView"/>
+        <entry id="8389281" method="true" symbol="onStop"/>
+        <entry id="11" module="true" symbol="Random"/>
+        <entry id="14" module="true" symbol="Layouts"/>
+        <entry id="5" module="true" symbol="globals/Rez/Fonts"/>
+        <entry id="8388635" module="true" symbol="Application"/>
+    </symbolTable>
+    <localVars>
+        <entry arg="true" endPc="268435555" name="lower" stackId="1" startPc="268435492"/>
+        <entry arg="true" endPc="268435555" name="upper" stackId="2" startPc="268435492"/>
+        <entry arg="true" endPc="268435566" name="info" stackId="1" startPc="268435556"/>
+        <entry arg="true" endPc="268435638" name="lower" stackId="1" startPc="268435567"/>
+        <entry arg="true" endPc="268435638" name="upper" stackId="2" startPc="268435567"/>
+        <entry arg="true" endPc="268435666" name="state" stackId="1" startPc="268435662"/>
+        <entry arg="true" endPc="268435671" name="state" stackId="1" startPc="268435667"/>
+    </localVars>
+    <annotations>
+        <annotationEntry annotation="Test" class="globals" module="" symbol="testRandomInt"/>
+        <annotationEntry annotation="initialized" class="Drawables" module="globals/Rez" symbol="LauncherIcon"/>
+        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="AppName"/>
+    </annotations>
+    <dataEntryOffsetMappings>
+        <dataEntry label="globals" offset="95" parentId="" symbolId="globals" type="module"/>
+        <dataEntry label="globals/RNGDataFieldApp" offset="182" parentId="globals" symbolId="RNGDataFieldApp" type="class"/>
+        <dataEntry label="globals/Rez" offset="253" parentId="globals" symbolId="Rez" type="module"/>
+        <dataEntry label="globals/Rez/Drawables" offset="332" parentId="Rez" symbolId="Drawables" type="module"/>
+        <dataEntry label="globals/Rez/Menus" offset="371" parentId="Rez" symbolId="Menus" type="module"/>
+        <dataEntry label="globals/Rez/Fonts" offset="402" parentId="Rez" symbolId="Fonts" type="module"/>
+        <dataEntry label="globals/Rez/Layouts" offset="433" parentId="Rez" symbolId="Layouts" type="module"/>
+        <dataEntry label="globals/Rez/JsonData" offset="464" parentId="Rez" symbolId="JsonData" type="module"/>
+        <dataEntry label="globals/Rez/Strings" offset="495" parentId="Rez" symbolId="Strings" type="module"/>
+        <dataEntry label="globals/RNGDataFieldView" offset="534" parentId="globals" symbolId="RNGDataFieldView" type="class"/>
+        <dataEntry label="globals/Random" offset="613" parentId="globals" symbolId="Random" type="module"/>
+    </dataEntryOffsetMappings>
+    <functions>
+        <functionEntry accessMode="public" endPc="268435491" name="initialize" parent="RNGDataFieldView" startPc="268435456">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268435555" name="randomInt" parent="RNGDataFieldView" startPc="268435492">
+            <param id="lower"/>
+            <param id="upper"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268435566" name="compute" parent="RNGDataFieldView" startPc="268435556">
+            <param id="info"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="protected" endPc="268435861" name="&lt;init&gt;" parent="RNGDataFieldView" startPc="268435843">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268435638" name="randomInt" parent="Random" startPc="268435567">
+            <param id="lower"/>
+            <param id="upper"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="protected" endPc="268435862" name="&lt;init&gt;" parent="Random" startPc="268435862">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268435661" name="initialize" parent="RNGDataFieldApp" startPc="268435639">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268435666" name="onStart" parent="RNGDataFieldApp" startPc="268435662">
+            <param id="state"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268435671" name="onStop" parent="RNGDataFieldApp" startPc="268435667">
+            <param id="state"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268435713" name="getInitialView" parent="RNGDataFieldApp" startPc="268435672">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="protected" endPc="268435817" name="&lt;init&gt;" parent="RNGDataFieldApp" startPc="268435799">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268435742" name="getApp" startPc="268435714">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268435797" name="testRandomInt" startPc="268435743">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="protected" endPc="268435837" name="&lt;init&gt;" parent="Drawables" startPc="268435837">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="protected" endPc="268435839" name="&lt;init&gt;" parent="Fonts" startPc="268435839">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="protected" endPc="268435841" name="&lt;init&gt;" parent="JsonData" startPc="268435841">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="protected" endPc="268435840" name="&lt;init&gt;" parent="Layouts" startPc="268435840">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="protected" endPc="268435838" name="&lt;init&gt;" parent="Menus" startPc="268435838">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="protected" endPc="268435842" name="&lt;init&gt;" parent="Strings" startPc="268435842">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="protected" endPc="268435836" name="&lt;init&gt;" parent="Rez" startPc="268435818">
+            <documentation/>
+        </functionEntry>
+    </functions>
+</debugInfo>
