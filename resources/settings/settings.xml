@@ -8,4 +8,8 @@
         <settingConfig type="numeric" min = "1" errorMessage = "@Strings.RangeErrorMessage"/>
     </setting>
 
+    <setting propertyKey="@Properties.vibrate" title = "@Strings.VibrateName" prompt = "@Strings.VibratePrompt">
+        <settingConfig type="boolean"/>
+    </setting>
+
 </settings>

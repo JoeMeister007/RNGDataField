@@ -7,6 +7,13 @@
     <string id = "RangeName">RNG Range</string>
     <string id = "RangePrompt">Set The Range Of The RNG (e.g. If The Lower Bound Is 2 And The Range Is 10 The Numbers 2-11 Will Be Possible Outcomes)</string>
     <string id = "RangeErrorMessage">Please Enter A Positive Integer For The Range</string>
+    <!--Strings for vibration settings-->
+    <string id = "VibrateName">Vibrate On New Number</string>
+    <string id = "VibratePrompt">Set If The Watch Should Vibrate When A New Number Is Generated</string>    
+    <!--Strings for fit field-->
+    <string id = "GraphName">Random Numbers</string>
+    <string id = "DataLabel">Random Number</string>
+    <string id = "UnitLabel"> </string>
 
 
 </strings>

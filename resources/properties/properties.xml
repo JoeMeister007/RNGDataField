@@ -1,4 +1,5 @@
 <properties>
     <property id = "lowerBound" type = "number">1</property>
     <property id = "range" type = "number">10</property>
+    <property id = "vibrate" type = "boolean">true</property>
 </properties>
